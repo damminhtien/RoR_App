@@ -1,0 +1,20 @@
+vi:
+  static_pages:
+    about:
+      name: "Về"
+      intro: " là cuốn sách và hướng dẫn phát triển web với"
+      sample: "Đây là ứng dụng mẫu"
+    contact:
+      name: "Liên hệ"
+      intro: "Liên hệ Ruby on Rails Tutorial về ví dụ này ở"
+      sample: "trang liên hệ"
+    help:
+      name: "Trợ giúp"
+      intro: "Nhận trợ giúp về Ruby on Rails Tutorial ở phần Rails Tutorial help"
+      sample: "Để nhận trợ giúp về ứng dụng này, tham khảo Ruby on Rails Tutorial book"
+    home:
+      name: "ứng dụng mẫu"
+      intro: "Đây là trang chủ cho Ruby on Rails Tutorial sample application."
+  layouts:
+    application:
+      title: "ví dụ ứng dựng Ruby on Rails"
