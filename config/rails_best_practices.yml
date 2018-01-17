@@ -20,12 +20,12 @@ NotUseDefaultRouteCheck: { }
 NotUseTimeAgoInWordsCheck: { }
 OveruseRouteCustomizationsCheck: { customize_count: 3 }
 ProtectMassAssignmentCheck: { }
-RemoveEmptyHelpersCheck: { }
+RemoveEmptyHelpersCheck: {  }
 #RemoveTabCheck: { }
 RemoveTrailingWhitespaceCheck: { }
 RemoveUnusedMethodsInControllersCheck: {
   except_methods:
-  ["StaticPagesController#home","StaticPagesController#help","StaticPagesController#about","StaticPagesController#contact"]
+  ["StaticPagesController#home","StaticPagesController#help","StaticPagesController#about","StaticPagesController#contact","UsersController#new"]
 }
 RemoveUnusedMethodsInHelpersCheck: { except_methods: [] }
 RemoveUnusedMethodsInModelsCheck: { except_methods: [] }

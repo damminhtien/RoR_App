@@ -13,8 +13,27 @@ vi:
       intro: "Nhận trợ giúp về Ruby on Rails Tutorial ở phần Rails Tutorial help"
       sample: "Để nhận trợ giúp về ứng dụng này, tham khảo Ruby on Rails Tutorial book"
     home:
-      name: "ứng dụng mẫu"
-      intro: "Đây là trang chủ cho Ruby on Rails Tutorial sample application."
+      name: "Trang chủ"
+      welcome: "Chào mừng đến với Sample App"
+      intro: "Đây là trang chủ cho the Ruby on Rails Tutorial sample application."
+      signup: "Đăng ký ngay!"
   layouts:
     application:
-      title: "ví dụ ứng dựng Ruby on Rails"
+      title: "Ví dụ ứng dựng Ruby on Rails"
+    footer:
+      by: "bởi"
+      intro: "Ruby on Rails cơ bản"
+      news: "tin tức"
+      about: "Về chúng tôi"
+      contact: "Liên lạc"
+    header:
+      app: "Ứng dụng mẫu"
+      en: "Tiếng anh"
+      vi: "Tiếng việt"
+      home: "Trang chủ"
+      help: "Trợ giúp"
+      login: "Đăng nhập"
+  users:
+    new:
+      name: "Đăng ký"
+      intro: "Đây là trang đăng ký cho thành viên mới"
