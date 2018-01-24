@@ -37,3 +37,14 @@ vi:
     new:
       name: "Đăng ký"
       intro: "Đây là trang đăng ký cho thành viên mới"
+      confirmation: "Xác nhận"
+    save:
+      success: "Chào mừng thành viên mới"
+    signup:
+      btnSignUp_text: "Tạo tài khoản"
+    error:
+      error0: "Trong form có"
+      error1: "lỗi"
+    flash:
+      success_create: "Chào mừng thành viên mới"
+      failed_show: "Không tồn tại tài khoản"

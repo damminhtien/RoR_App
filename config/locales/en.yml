@@ -37,3 +37,14 @@ en:
     new:
       name: "Sign up"
       intro: "This will be a signup page for new users"
+      confirmation: "Confirmation"
+    save:
+      success: "Welcome to Sample App"
+    signup:
+      btnSignUp_text: "Create my account"
+    error:
+      error0: "This form has"
+      error1: "error"
+    flash:
+      success_create: "Welcome to Sample App"
+      failed_show: "User doesn't exit. Please sign in"
