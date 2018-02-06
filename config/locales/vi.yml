@@ -33,6 +33,11 @@ vi:
       home: "Trang chủ"
       help: "Trợ giúp"
       login: "Đăng nhập"
+      logout: "Đăng xuất"
+      user: "Người dùng"
+      profile: "Hồ sơ"
+      setting: "Cài đặt"
+      account: "Account"
   users:
     new:
       name: "Đăng ký"
@@ -48,3 +53,10 @@ vi:
     flash:
       success_create: "Chào mừng thành viên mới"
       failed_show: "Không tồn tại tài khoản"
+  sessions:
+    new:
+      name: "Đăng nhập"
+      new_user: "Người dùng mới"
+      sign_up_now: "Đăng ký ngay"
+    create:
+      danger_flash: "Sai tên đăng nhập hoặc mật khẩu"
