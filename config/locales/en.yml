@@ -33,6 +33,11 @@ en:
       home: "Home"
       help: "Help"
       login: "Log in"
+      logout: "Logout"
+      users: "User"
+      profile: "Profile"
+      setting: "Setting"
+      account: "Account"
   users:
     new:
       name: "Sign up"
@@ -48,3 +53,10 @@ en:
     flash:
       success_create: "Welcome to Sample App"
       failed_show: "User doesn't exit. Please sign in"
+  sessions:
+    new:
+      name: "Log in"
+      new_user: "New user"
+      sign_up_now: "Sign up now"
+    create:
+      danger_flash: "Invalid email/password combination"
